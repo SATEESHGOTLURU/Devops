@@ -1,0 +1,10 @@
+Day 1
+Today i have  praticed below linex Commands
+git clone
+ls
+cd
+pwd
+git clone : To clone main to local repro for the safer side.
+ls  : ls it give list of files
+cd its change of directory 
+pwd is present working area 
